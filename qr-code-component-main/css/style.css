@@ -40,7 +40,7 @@ img{
     margin: 0 auto;
 }
 h1{
-    text-align: center;
+    text-align: right;
     font-size: 22px;
     color: var(--Dark-blue);
     margin-top: 20px;
